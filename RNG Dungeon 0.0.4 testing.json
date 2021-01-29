@@ -1,0 +1,16 @@
+{
+"companyName": "Francos Game",
+"productName": "RNG Dungeon",
+"productVersion": "0.0.3 Testing",
+"dataUrl": "RNG Dungeon 0.0.4 testing.data.unityweb",
+"wasmCodeUrl": "RNG Dungeon 0.0.4 testing.wasm.code.unityweb",
+"wasmFrameworkUrl": "RNG Dungeon 0.0.4 testing.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
